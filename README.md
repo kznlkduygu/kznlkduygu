@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Duygu Kızanlık </h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://github.com/kznlkduygu?tab=repositories" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/kznlkduygu?tab=repositories](https://github.com/kznlkduygu?tab=repositories)
 
